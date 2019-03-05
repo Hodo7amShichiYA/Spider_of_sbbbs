@@ -1,0 +1,2 @@
+# Spider_of_sbbbs
+基于scrapy做的mcbbs一级界面抓取
