@@ -1,4 +1,4 @@
 *.md linguist-language=python
-*.js linguist-language=Scala
-*.css linguist-language=Scala
-*.html linguist-language=Scala
+*.js linguist-language=python
+*.css linguist-language=python
+*.html linguist-language=python
